@@ -2,7 +2,11 @@
 
 To use this module Please go to (https://github.com/waleedrady/AWS_Cloud_DC_Enviroment_1A)
 
+Terraform Registery (https://registry.terraform.io/modules/WEEMR/DataCenter_Enviroment_1A/aws/latest)
+
 Terraform Module that will create the AWS Networking Stack with FGT, Apache Server, Windows Server and utilize AWS Route53 for DNS.
+
+![image](https://user-images.githubusercontent.com/83562796/141713938-71689356-9a36-4edb-abd6-b89d455280bf.png)
 
 The module will create the below resources:
 
